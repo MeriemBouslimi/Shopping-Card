@@ -1,0 +1,62 @@
+.background {
+    background-image: url(https://www.visitmonaco.com/ImageRepository/Itineraire/c28a10d9-d6b7-489f-9c90-ebd4a6e2abeb/Slider/1-shooping.jpg?Width=1700&Height=850);
+    background-repeat: no-repeat;
+    background-size:1700px;
+    height: 1000px;
+    align-items: center;
+    padding: 100px;
+
+}
+.nice-number {
+    display: inline-flex;
+    justify-content: stretch;
+  }
+  
+.Total-shop {
+display: flex;
+align-items: center;
+padding-left: 50px;
+padding-bottom: 30px;
+color: blueviolet;
+font-size: 20px;
+
+}
+.qtte{
+    padding: 20px;
+}
+
+.nice-number {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+.QTEs {
+    display: flex;
+    align-items: center;
+    padding: 20px 20px 20px 60px;
+}
+.QTE-Number {
+    padding: 0 20px;
+}
+.cards {
+    background-color:orange;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 10px;
+    padding: 30px;
+}
+.bags {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    border-top: solid gray 0.2px;
+    padding: 10px 0;
+
+}
+.bag-img {
+    width: 100px;
+    height: 100px;
+}
